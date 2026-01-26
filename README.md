@@ -18,7 +18,7 @@
 
 ![Status](https://img.shields.io/badge/STATUS-EM%20TESTES-yellow)
 
-## 🧬 Microtomografia Computadorizada de Raios X
+## 🔬 Microtomografia Computadorizada de Raios X
 A Microtomografia Computadorizada de Raios X (µCT) é uma técnica de imageamento amplamente utilizada na ciência de materiais para visualizar e quantificar a microestrutura interna de uma amostra em três dimensões. A partir de uma série de projeções bidimensionais obtidas enquanto a amostra é rotacionada (ao longo de 180° ou 360°), são gerados sinogramas que armazenam as intensidades de atenuação dos raios X. Esses sinogramas são então convertidos em um volume reconstruído por meio de algoritmos baseados na transformada de Radon inversa, como a retroprojeção filtrada (*Filtered Backprojection*, FBP), fornecendo um mapa 3D do coeficiente de atenuação em cada voxel. 
 Métodos clássicos de segmentação incluem técnicas de limiarização (*thresholding*), que determinam um valor de corte no histograma de intensidades (para imagens 8-bit, de 0 a 255, variando em escala de cinza do preto ao branco) e produzem máscaras binárias que distinguem objetos de interesse do fundo. Entretanto, tanto a reconstrução quanto a segmentação podem ser afetadas por ruídos, baixa razão sinal-ruído ou artefatos característicos da tomografia, tornando necessária a aplicação de técnicas mais complexas. Nesse contexto, métodos baseados em *Deep Learning* (DL) têm emergido como alternativas poderosas para melhorar tanto a segmentação quanto o processamento e análise de dados de µCT.
 
