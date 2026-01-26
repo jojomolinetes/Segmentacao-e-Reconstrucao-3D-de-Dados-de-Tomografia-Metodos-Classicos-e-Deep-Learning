@@ -5,7 +5,8 @@
 <h2 align="center">Iniciação à Pesquisa III</h2>
 
 
-🧠 Redes Neurais • 🧬 Algoritmos Genéticos •  🔬 Engenharia de proteínas • 🧪Estabilidade in silico • 🐍 Python
+🔬 µCT • 🤖 Deep Learning • 🔄 Reconstrução Tomográfica • 🧩 Segmentação de Imagens • 📐 Análise Estrutural • 🐍 Python
+
 
 **Autores:** Joana de Medeiros Oliveira Hulse Molinete e Yasmin Barbosa Shimizu.
 
